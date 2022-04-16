@@ -2099,8 +2099,8 @@ p strong {
 		font-size: 2.5em;
 	}
 	.navbar-light .navbar-toggler {
-		border-color: #2dde98;
-		background: #2dde98;
+		border-color: white;
+		background: goldenrod;
 	}
 	.navbar-toggler {
 		font-size: 1.25rem;
