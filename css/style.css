@@ -2234,6 +2234,9 @@ p strong {
 	iframe {
 		height: 300px;
 	}
+	header{
+		height: 100%;
+	}
 }
 @media(max-width: 667px){
 	h4.position {
@@ -2244,6 +2247,9 @@ p strong {
 		padding: 0 4em;
 	}
 	.slider{
+		height: 100%;
+	}
+	header{
 		height: 100%;
 	}
 }
@@ -2266,6 +2272,9 @@ p strong {
 		padding: 0 2em;
 	}
 	.slider{
+		height: 100%;
+	}
+	header{
 		height: 100%;
 	}
 }
@@ -2295,6 +2304,9 @@ p strong {
 	.slider{
 		height: 100%;
 	}
+	header{
+		height: 100%;
+	}
 }
 @media(max-width: 480px){
 	ul.footer-nav li a {
@@ -2319,6 +2331,9 @@ p strong {
 		padding: 0 4em;
 	}
 	.slider{
+		height: 100%;
+	}
+	header{
 		height: 100%;
 	}
 }
@@ -2382,6 +2397,9 @@ p strong {
 		font-size: 14px;
 	}
 	.slider{
+		height: 100%;
+	}
+	header{
 		height: 100%;
 	}
 }
@@ -2450,6 +2468,9 @@ p strong {
 	.slider{
 		height: 100%;
 	}
+	header{
+		height: 100%;
+	}
 }
 @media(max-width: 375px){
 	.profile p {
@@ -2476,6 +2497,9 @@ p strong {
 		font-size: 15px;
 	}
 	.slider{
+		height: 100%;
+	}
+	header{
 		height: 100%;
 	}
 }
@@ -2524,6 +2548,9 @@ p strong {
 		font-size: 33px;
 	}
 	.slider{
+		height: 100%;
+	}
+	header{
 		height: 100%;
 	}
 }
