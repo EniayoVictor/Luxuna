@@ -2243,6 +2243,9 @@ p strong {
 	.agile-team-grids {
 		padding: 0 4em;
 	}
+	.slider{
+		height: 100%;
+	}
 }
 @media(max-width: 640px){
 	.slider_banner_info_w3ls {
@@ -2261,6 +2264,9 @@ p strong {
 	}
 	.agile-team-grids {
 		padding: 0 2em;
+	}
+	.slider{
+		height: 100%;
 	}
 }
 @media(max-width: 568px){
@@ -2286,6 +2292,9 @@ p strong {
 	iframe {
 		height: 250px;
 	}
+	.slider{
+		height: 100%;
+	}
 }
 @media(max-width: 480px){
 	ul.footer-nav li a {
@@ -2308,6 +2317,9 @@ p strong {
 	}
 	.agile-team-grids {
 		padding: 0 4em;
+	}
+	.slider{
+		height: 100%;
 	}
 }
 @media(max-width: 414px){
@@ -2368,6 +2380,9 @@ p strong {
 	}
 	.contact_form input[type="text"], .contact_form input[type="email"], .contact_form textarea {
 		font-size: 14px;
+	}
+	.slider{
+		height: 100%;
 	}
 }
 @media(max-width: 384px){
@@ -2432,6 +2447,9 @@ p strong {
 	.contact_info span {
 		font-size: 25px;
 	}
+	.slider{
+		height: 100%;
+	}
 }
 @media(max-width: 375px){
 	.profile p {
@@ -2456,6 +2474,9 @@ p strong {
 	.contact_form input[type="submit"] {
 		padding: 10px 15px;
 		font-size: 15px;
+	}
+	.slider{
+		height: 100%;
 	}
 }
 @media(max-width: 320px){
@@ -2501,6 +2522,9 @@ p strong {
 	}
 	h4.position.cont {
 		font-size: 33px;
+	}
+	.slider{
+		height: 100%;
 	}
 }
 /*-- //Responsive Design --*/
