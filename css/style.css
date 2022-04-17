@@ -1116,11 +1116,11 @@ ul.w3ls-footer-bottom-list li {
 
 ul.w3ls-footer-bottom-list li a,
 ul.footer-social-icons li a {
-    color: #777;
+    color: #fff;
     text-transform: capitalize;
 }
 ul.w3ls-footer-bottom-list li a:hover, ul.footer-social-icons li a:hover {
-    color: #bbb;
+    color: #fff;
 }
 ul.footer-social-icons li {
     list-style-type: none;
@@ -1151,7 +1151,7 @@ ul.footer-social-icons li {
 
 .banner_bottom_left h4 {
     font-size: 1.5em;
-    color: #3c3c3c;
+    color: #fff;
     letter-spacing: 1px;
     position: relative;
     font-weight: 600;
