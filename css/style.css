@@ -2188,7 +2188,7 @@ p strong {
 		font-size: 17px;
 		letter-spacing: 0px;
 	}
-}
+	
 @media(max-width: 736px){
 	.slider_banner_info_w3ls {
 		padding-left: 0%;
@@ -2237,6 +2237,11 @@ p strong {
 	header{
 		height: 100%;
 	}
+	#headies{
+		height: 100%;
+		width: 100%;
+	}
+}
 }
 @media(max-width: 667px){
 	h4.position {
@@ -2252,6 +2257,11 @@ p strong {
 	header{
 		height: 100%;
 	}
+	#headies{
+		height: 100%;
+		width: 100%;
+	}
+}
 }
 @media(max-width: 640px){
 	.slider_banner_info_w3ls {
@@ -2277,6 +2287,11 @@ p strong {
 	header{
 		height: 100%;
 	}
+	#headies{
+		height: 100%;
+		width: 100%;
+	}
+}
 }
 @media(max-width: 568px){
 	.estate {
@@ -2307,6 +2322,11 @@ p strong {
 	header{
 		height: 100%;
 	}
+	#headies{
+		height: 100%;
+		width: 100%;
+	}
+}
 }
 @media(max-width: 480px){
 	ul.footer-nav li a {
@@ -2336,6 +2356,11 @@ p strong {
 	header{
 		height: 100%;
 	}
+	#headies{
+		height: 100%;
+		width: 100%;
+	}
+}
 }
 @media(max-width: 414px){
 	.footer-nav li {
@@ -2402,6 +2427,11 @@ p strong {
 	header{
 		height: 100%;
 	}
+	#headies{
+		height: 100%;
+		width: 100%;
+	}
+}
 }
 @media(max-width: 384px){
 	.newsleft h3 {
@@ -2471,6 +2501,11 @@ p strong {
 	header{
 		height: 100%;
 	}
+	#headies{
+		height: 100%;
+		width: 100%;
+	}
+}
 }
 @media(max-width: 375px){
 	.profile p {
@@ -2502,6 +2537,11 @@ p strong {
 	header{
 		height: 100%;
 	}
+	#headies{
+		height: 100%;
+		width: 100%;
+	}
+}
 }
 @media(max-width: 320px){
 	.newsright input[type="email"] {
@@ -2553,5 +2593,10 @@ p strong {
 	header{
 		height: 100%;
 	}
+	#headies{
+		height: 100%;
+		width: 100%;
+	}
+}
 }
 /*-- //Responsive Design --*/
