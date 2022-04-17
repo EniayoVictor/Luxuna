@@ -376,6 +376,8 @@ img.img-responsive {
 
 .slider-img4 {
 	background: url(../images/12.jpg) no-repeat 0px 0px;
+	background-position-y: 50%;
+	background-size: contain;
 }
 
 .slider-img1,.slider-img2,.slider-img3,.slider-img4 {
